@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this file is created in repository
+=======
+aritificial intelligence and machine learning
+aiml
+>>>>>>> f-b
